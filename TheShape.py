@@ -1,5 +1,5 @@
 """ Name: Patricia Gariando
-    Student Number: 991 446 494
+    Student Number: 000 000 000
     Task: Assignment 1
     Date: Sept 30 2023 """
 
@@ -97,5 +97,5 @@ else:
         print(finalOutput %(color, shape))    
 # displays name and student ID number every time the program is run                
 print()
-print("Patricia Gariando: 991 446 494") 
+print("Patricia Gariando: 000 000 000") 
 print()
